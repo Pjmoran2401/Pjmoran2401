@@ -7,6 +7,15 @@ I'm a recent graduate of a Data Technician Skills Bootcamp and I am looking to s
 * 🧠  I'm learning Advanced Excel features, tableau, power BI, SQL, Azure and Python.
 * ⚡  Also training to become a dog trainer.
 
+Please find below data analysis projects I have completed:
+
+<a href="https://github.com/Pjmoran2401/Azure" target="_blank">Microsoft Azure</a>
+<a href="https://github.com/Pjmoran2401/PowerBI" target="_blank">Power BI</a>
+<a href="https://github.com/Pjmoran2401/Python" target="_blank">Python</a>
+<a href="https://github.com/Pjmoran2401/SQL" target="_blank">SQL</a>
+<a href="https://github.com/Pjmoran2401/Excel" target="_blank">Excel</a>
+<a href="https://github.com/Pjmoran2401/Tableau" target="_blank">Tableau</a>
+
 ### Skills
 
 
