@@ -13,7 +13,7 @@ Please find below data analysis projects I have completed:
 
 <a href="https://github.com/Pjmoran2401/PowerBI" target="_blank">Power BI</a>
 
-<a href="https://github.com/Pjmoran2401/Python" target="_blank">Python</a>
+<a href="(https://sites.google.com/view/pjmoran/project-pages/python?authuser=0)" target="_blank">Python</a>
 
 <a href="https://github.com/Pjmoran2401/SQL" target="_blank">SQL</a>
 
