@@ -10,15 +10,15 @@ I'm a recent graduate of a Data Technician Skills Bootcamp and I am looking to s
 Please find below data analysis projects I have completed:
 
 
-<a href="https://github.com/Pjmoran2401/PowerBI" target="_blank">Power BI</a>
+<a href="https://sites.google.com/view/pjmoran/project-pages/power-bi?authuser=0I" target="_blank">Power BI</a>
 
 <a href="https://sites.google.com/view/pjmoran/project-pages/python?authuser=0" target="_blank">Python</a>
 
 <a href="https://sites.google.com/view/pjmoran/project-pages/sql?authuser=0" target="_blank">SQL</a>
 
-<a href="https://github.com/Pjmoran2401/Excel" target="_blank">Excel</a>
+<a href="https://sites.google.com/view/pjmoran/project-pages/microsoft-excel?authuser=0" target="_blank">Excel</a>
 
-<a href="https://github.com/Pjmoran2401/Tableau" target="_blank">Tableau</a>
+<a href="https://sites.google.com/view/pjmoran/project-pages/tableau?authuser=0" target="_blank">Tableau</a>
 
 ### Skills
 
